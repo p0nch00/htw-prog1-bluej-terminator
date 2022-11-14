@@ -5,6 +5,7 @@ cat ../../blueJTemplate.txt >> ../package.bluej
 for i in *.java
  do
    rm ../"$i"
+   javac *.java
    sed '1d' "$i" >> ../"$i"
    echo "target$index.height=70" >> ../package.bluej
    echo "target$index.name=$i" >> ../package.bluej
