@@ -2,4 +2,4 @@
 
 SAVE HUMANITY FROM BLUEJ
 
-Einfach in PRG-Folder reinwerfen und bash buildAll.sh ausfuehren
+Einfach alle dateien ohne ueberordner in PRG-Folder reinwerfen und bash buildAll.sh ausfuehren
